@@ -1,0 +1,15 @@
+.nav {
+	display: flex;
+	justify-content: flex-end;
+	margin: 0 10px 0 0;
+}
+
+.link {
+	color: white;
+	transition: 1s;
+}
+
+.link:hover {
+	color: grey;
+	cursor: pointer;
+}
